@@ -1,3 +1,3 @@
-## Site sobre a Hipótese da Capela do extinto Engenho Cunhaú histórico. 
+## Hipótese da Capela do extinto Engenho Cunhaú histórico
 
 ### Foi utilizado o tema free bootstrap: [Acesse aqui o tema](https://startbootstrap.com/previews/grayscale)
